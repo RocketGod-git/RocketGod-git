@@ -29,6 +29,7 @@ Sorted by stars, forks, clones, and page views.
 1. [photos](https://github.com/RocketGod-git/photos) - ★ 0
 1. [RATcat](https://github.com/RocketGod-git/RATcat) - ★ 0
 1. [SentientAI](https://github.com/RocketGod-git/SentientAI) - ★ 0
+1. [statsnatcher](https://github.com/RocketGod-git/statsnatcher) - ★ 0
 1. [t2-discord-ban-leaderboard](https://github.com/RocketGod-git/t2-discord-ban-leaderboard) - ★ 0
 1. [watson](https://github.com/RocketGod-git/watson) - ★ 0
 
@@ -52,6 +53,7 @@ Sorted by stars, forks, clones, and page views.
 1. [adsb-decoder](https://github.com/RocketGod-git/adsb-decoder) - 🍴 0
 1. [photos](https://github.com/RocketGod-git/photos) - 🍴 0
 1. [RATcat](https://github.com/RocketGod-git/RATcat) - 🍴 0
+1. [statsnatcher](https://github.com/RocketGod-git/statsnatcher) - 🍴 0
 1. [t2-discord-ban-leaderboard](https://github.com/RocketGod-git/t2-discord-ban-leaderboard) - 🍴 0
 1. [watson](https://github.com/RocketGod-git/watson) - 🍴 0
 
@@ -76,11 +78,12 @@ Sorted by stars, forks, clones, and page views.
 1. [shell-access-discord-bot](https://github.com/RocketGod-git/shell-access-discord-bot) - 🔄 3
 1. [Flipper-zero-.sub-files-to-HackRF-Portapack-.c16-files-convert](https://github.com/RocketGod-git/Flipper-zero-.sub-files-to-HackRF-Portapack-.c16-files-convert) - 🔄 2
 1. [photos](https://github.com/RocketGod-git/photos) - 🔄 2
+1. [statsnatcher](https://github.com/RocketGod-git/statsnatcher) - 🔄 0
 1. [t2-discord-ban-leaderboard](https://github.com/RocketGod-git/t2-discord-ban-leaderboard) - 🔄 0
 
 ### Most Viewed
-1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - 👁️‍🗨️ 10319
-1. [HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - 👁️‍🗨️ 1629
+1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - 👁️‍🗨️ 10315
+1. [HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - 👁️‍🗨️ 1627
 1. [ChatGPT-Creations](https://github.com/RocketGod-git/ChatGPT-Creations) - 👁️‍🗨️ 263
 1. [flipper-sub-to-hackrf-portapack-c16-converter](https://github.com/RocketGod-git/flipper-sub-to-hackrf-portapack-c16-converter) - 👁️‍🗨️ 46
 1. [watson](https://github.com/RocketGod-git/watson) - 👁️‍🗨️ 43
@@ -97,6 +100,7 @@ Sorted by stars, forks, clones, and page views.
 1. [RocketGod-git](https://github.com/RocketGod-git/RocketGod-git) - 👁️‍🗨️ 5
 1. [Flipper_Zero-Wheel_of_Fortune](https://github.com/RocketGod-git/Flipper_Zero-Wheel_of_Fortune) - 👁️‍🗨️ 1
 1. [SentientAI](https://github.com/RocketGod-git/SentientAI) - 👁️‍🗨️ 1
+1. [statsnatcher](https://github.com/RocketGod-git/statsnatcher) - 👁️‍🗨️ 1
 1. [GPTbotV2](https://github.com/RocketGod-git/GPTbotV2) - 👁️‍🗨️ 0
 1. [photos](https://github.com/RocketGod-git/photos) - 👁️‍🗨️ 0
 1. [t2-discord-ban-leaderboard](https://github.com/RocketGod-git/t2-discord-ban-leaderboard) - 👁️‍🗨️ 0
