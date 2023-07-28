@@ -9,6 +9,12 @@ Find me on YouTube [here](https://www.youtube.com/@lordrocketgod).
 ## My Top Repositories
 Sorted by stars, forks, clones, and page views.
 
+Stats provided by:
+[GitHub Stats Snatcher](https://github.com/RocketGod-git/statsnatcher)
+
+## My Top Repositories
+Sorted by stars, forks, clones, and page views.
+
 ### Most Starred
 1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - ★ 524
 1. [HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - ★ 165
