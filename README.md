@@ -8,7 +8,9 @@ Find me on YouTube [here](https://www.youtube.com/@lordrocketgod).
 
 ## My Top Repositories
 Sorted by stars, forks, clones, and page views.
-Stats provided by [GitHub Stats Snatcher](https://github.com/RocketGod-git/statsnatcher)
+
+Stats provided by:
+[GitHub Stats Snatcher](https://github.com/RocketGod-git/statsnatcher)
 
 ### Most Starred
 1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - ★ 524
