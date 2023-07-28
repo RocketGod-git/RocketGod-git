@@ -56,7 +56,7 @@ Sorted by stars, forks, clones, and page views.
 1. [watson](https://github.com/RocketGod-git/watson) - 🍴 0
 
 ### Most Cloned
-1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - 🔄 37
+1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - 🔄 36
 1. [HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - 🔄 24
 1. [watson](https://github.com/RocketGod-git/watson) - 🔄 20
 1. [smsbomber](https://github.com/RocketGod-git/smsbomber) - 🔄 12
@@ -94,7 +94,7 @@ Sorted by stars, forks, clones, and page views.
 1. [python-discord-bot](https://github.com/RocketGod-git/python-discord-bot) - 👁️‍🗨️ 8
 1. [Flipper_Zero-sub_converter](https://github.com/RocketGod-git/Flipper_Zero-sub_converter) - 👁️‍🗨️ 7
 1. [LRS-Restaurant-Pagers](https://github.com/RocketGod-git/LRS-Restaurant-Pagers) - 👁️‍🗨️ 5
-1. [RocketGod-git](https://github.com/RocketGod-git/RocketGod-git) - 👁️‍🗨️ 5
+1. [RocketGod-git](https://github.com/RocketGod-git/RocketGod-git) - 👁️‍🗨️ 2
 1. [Flipper_Zero-Wheel_of_Fortune](https://github.com/RocketGod-git/Flipper_Zero-Wheel_of_Fortune) - 👁️‍🗨️ 1
 1. [SentientAI](https://github.com/RocketGod-git/SentientAI) - 👁️‍🗨️ 1
 1. [GPTbotV2](https://github.com/RocketGod-git/GPTbotV2) - 👁️‍🗨️ 0
