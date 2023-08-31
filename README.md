@@ -1,6 +1,6 @@
 # RocketGod-git
 
-Find me on my Discord server [here](https://discord.gg/thepirates).
+Find me on my Discord server (ask me for an invite).
 
 Find me on YouTube [here](https://www.youtube.com/@lordrocketgod).
 
@@ -68,7 +68,7 @@ Stats provided by:
 1. [TerminatorBot](https://github.com/RocketGod-git/TerminatorBot) - 🍴 0
 1. [watson](https://github.com/RocketGod-git/watson) - 🍴 0
 
-### Most Cloned
+### Most Cloned (14 day stats)
 1. [RocketGod-git](https://github.com/RocketGod-git/RocketGod-git) - 🔄 45
 1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - 🔄 32
 1. [shodanbot](https://github.com/RocketGod-git/shodanbot) - 🔄 30
@@ -96,7 +96,7 @@ Stats provided by:
 1. [RATcat](https://github.com/RocketGod-git/RATcat) - 🔄 0
 1. [screenshot-stealer](https://github.com/RocketGod-git/screenshot-stealer) - 🔄 0
 
-### Most Viewed
+### Most Viewed (14 day stats)
 1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - 👁️‍🗨️ 12020
 1. [HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - 👁️‍🗨️ 2271
 1. [evilportal-htmlsquash](https://github.com/RocketGod-git/evilportal-htmlsquash) - 👁️‍🗨️ 139
@@ -125,7 +125,7 @@ Stats provided by:
 1. [statsnatcher](https://github.com/RocketGod-git/statsnatcher) - 👁️‍🗨️ 2
 
 ## Contributors
-1. [RocketGod-git](https://github.com/RocketGod-git) - 💼 340
+1. [RocketGod-git](https://github.com/RocketGod-git) - 💼 341
 1. [FalsePhilosopher](https://github.com/FalsePhilosopher) - 💼 27
 1. [daci5455](https://github.com/daci5455) - 💼 8
 1. [pickeditmate](https://github.com/pickeditmate) - 💼 2
@@ -262,4 +262,4 @@ Stats provided by:
 1. search.brave.com - 🌍 1
 
 ## Timestamp
-2023-08-31 13:07:54
+2023-08-31 13:23:41
