@@ -2,7 +2,7 @@
 
 Find me on my Discord server (ask me for an invite).
 
-Find me on YouTube <img src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo-700x394.png" width="25" height="14"> [here](https://www.youtube.com/@lordrocketgod).
+Find me on [<img src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo-700x394.png" width="100" height="56" align="center">](https://www.youtube.com/@lordrocketgod) [here](https://www.youtube.com/@lordrocketgod).
 
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=RocketGod-git&show_icons=true&theme=aura&include_all_commits=true"/>
@@ -84,7 +84,7 @@ Stats provided by:
 1. [RATcat](https://github.com/RocketGod-git/RATcat) - 🍴 0
 
 ### Most Cloned (14 day stats)
-1. [RocketGod-git](https://github.com/RocketGod-git/RocketGod-git) - 🔄 70
+1. [RocketGod-git](https://github.com/RocketGod-git/RocketGod-git) - 🔄 78
 1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - 🔄 38
 1. [HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - 🔄 20
 1. [gofile-vulnerability-exploit-script](https://github.com/RocketGod-git/gofile-vulnerability-exploit-script) - 🔄 14
@@ -119,13 +119,13 @@ Stats provided by:
 1. [RATcat](https://github.com/RocketGod-git/RATcat) - 🔄 2
 
 ### Most Viewed (14 day stats)
-1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - 👁️‍🗨️ 8627
-1. [HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - 👁️‍🗨️ 1699
-1. [evilportal-htmlsquash](https://github.com/RocketGod-git/evilportal-htmlsquash) - 👁️‍🗨️ 324
+1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - 👁️‍🗨️ 8604
+1. [HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - 👁️‍🗨️ 1631
+1. [evilportal-htmlsquash](https://github.com/RocketGod-git/evilportal-htmlsquash) - 👁️‍🗨️ 326
 1. [ChatGPT-Creations](https://github.com/RocketGod-git/ChatGPT-Creations) - 👁️‍🗨️ 133
 1. [flipper-sub-to-hackrf-portapack-c16-converter](https://github.com/RocketGod-git/flipper-sub-to-hackrf-portapack-c16-converter) - 👁️‍🗨️ 40
+1. [RocketGod-git](https://github.com/RocketGod-git/RocketGod-git) - 👁️‍🗨️ 40
 1. [watson](https://github.com/RocketGod-git/watson) - 👁️‍🗨️ 39
-1. [RocketGod-git](https://github.com/RocketGod-git/RocketGod-git) - 👁️‍🗨️ 32
 1. [email-osint-discord-bot](https://github.com/RocketGod-git/email-osint-discord-bot) - 👁️‍🗨️ 22
 1. [rekognition-bot](https://github.com/RocketGod-git/rekognition-bot) - 👁️‍🗨️ 22
 1. [paste-search-discord-bot](https://github.com/RocketGod-git/paste-search-discord-bot) - 👁️‍🗨️ 21
@@ -154,7 +154,7 @@ Stats provided by:
 1. [photos](https://github.com/RocketGod-git/photos) - 👁️‍🗨️ 0
 
 ## Contributors
-1. [RocketGod-git](https://github.com/RocketGod-git) - 💼 426
+1. [RocketGod-git](https://github.com/RocketGod-git) - 💼 428
 1. [FalsePhilosopher](https://github.com/FalsePhilosopher) - 💼 27
 1. [daci5455](https://github.com/daci5455) - 💼 8
 1. [pickeditmate](https://github.com/pickeditmate) - 💼 2
@@ -293,4 +293,4 @@ Stats provided by:
 1. t.co - 🌍 2
 
 ## Timestamp
-2023-10-17 14:19:13
+2023-10-17 16:54:30
