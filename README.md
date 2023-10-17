@@ -2,8 +2,7 @@
 
 Find me on my Discord server (ask me for an invite).
 
-Find me on YouTube <img src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo-700x394.png" width="25" height="14"> [here](https://www.youtube.com/@lordrocketgod).
-
+Find me on [<img src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo-700x394.png" width="100" height="56" align="center">](https://www.youtube.com/@lordrocketgod) [here](https://www.youtube.com/@lordrocketgod).
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=RocketGod-git&show_icons=true&theme=aura&include_all_commits=true"/>
 
