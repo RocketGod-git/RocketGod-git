@@ -86,7 +86,7 @@ Stats provided by:
 1. [RATcat](https://github.com/RocketGod-git/RATcat) - 🍴 0
 
 ### Most Cloned (14 day stats)
-1. [RocketGod-git](https://github.com/RocketGod-git/RocketGod-git) - 🔄 62
+1. [RocketGod-git](https://github.com/RocketGod-git/RocketGod-git) - 🔄 60
 1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - 🔄 28
 1. [HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - 🔄 19
 1. [evilportal-htmlsquash](https://github.com/RocketGod-git/evilportal-htmlsquash) - 🔄 15
@@ -122,8 +122,8 @@ Stats provided by:
 1. [RATcat](https://github.com/RocketGod-git/RATcat) - 🔄 0
 
 ### Most Viewed (14 day stats)
-1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - 👁️‍🗨️ 6710
-1. [HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - 👁️‍🗨️ 2575
+1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - 👁️‍🗨️ 6691
+1. [HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - 👁️‍🗨️ 2574
 1. [evilportal-htmlsquash](https://github.com/RocketGod-git/evilportal-htmlsquash) - 👁️‍🗨️ 548
 1. [ChatGPT-Creations](https://github.com/RocketGod-git/ChatGPT-Creations) - 👁️‍🗨️ 163
 1. [Dark-Web-Discord-Bot](https://github.com/RocketGod-git/Dark-Web-Discord-Bot) - 👁️‍🗨️ 147
@@ -330,4 +330,4 @@ Stats provided by:
 1. presearch.com - 🌍 1
 
 ## Timestamp
-2023-12-06 06:20:35
+2023-12-06 07:03:14
