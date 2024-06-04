@@ -1,7 +1,5 @@
 # RocketGod-git
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RocketGod-git&label=Profile%20views&color=0e75b6&style=flat" alt="RocketGOd-git" /> </p>
-
 Find me on my Discord server [The Pirate's Plunder](https://discord.gg/thepirates).
 
 Find me on [<img src="https://1000logos.net/wp-content/uploads/2017/05/Old-YouTube-logo.jpg" width="50" height="28" align="center">](https://www.youtube.com/@lordrocketgod) [here](https://www.youtube.com/@lordrocketgod).
