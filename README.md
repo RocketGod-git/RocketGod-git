@@ -1,9 +1,11 @@
 # RocketGod-git
 
-Find me on my Discord server [The Pirate's Plunder](https://discord.gg/thepirates)
-Or my GitHub.io page for more links [rocketgod-git.github.io](https://rocketgod-git.github.io)
+Find me on my Discord server [The Pirate's Plunder](https://discord.gg/thepirates)<br>
+or my GitHub.io page for more links [rocketgod-git.github.io](https://rocketgod-git.github.io)
 
-Find me on [<img src="https://1000logos.net/wp-content/uploads/2017/05/Old-YouTube-logo.jpg" width="50" height="28" align="center">](https://www.youtube.com/@lordrocketgod) [here](https://www.youtube.com/@lordrocketgod).
+Find me on [<img src="https://1000logos.net/wp-content/uploads/2017/05/Old-YouTube-logo.jpg" width="50" height="28" align="center">](https://www.youtube.com/@lordrocketgod) [here](https://www.youtube.com/@lordrocketgod).<br>
+
+Current fun little project: [DEF CON Groups Interactive Map](https://dcgroups.betaskynet.com)<br>
 
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=RocketGod-git&show_icons=true&theme=aura&include_all_commits=true"/>
@@ -415,4 +417,4 @@ Stats provided by:
 1. com.google.android.gm - 🌍 1
 
 ## Timestamp
-2024-07-17 09:21:08
+2024-07-17 09:23:38
