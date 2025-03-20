@@ -7,7 +7,7 @@ Find me on [<img src="https://1000logos.net/wp-content/uploads/2017/05/Old-YouTu
 
 Current fun little project: [DEF CON Groups Interactive Map](https://dcgroups.betaskynet.com)<br>
 
-Thanks for looking. ðŸ˜ŽðŸ¤˜
+Thanks for looking!
 **-Rocketgod**
 
 ## Contributions
@@ -188,11 +188,11 @@ Stats provided by:
 ### Most Viewed (14 day stats)
 
 1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - 👁️‍🗨️ 2706
-1. [flipper-zero-rf-jammer](https://github.com/RocketGod-git/flipper-zero-rf-jammer) - 👁️‍🗨️ 1676
+1. [flipper-zero-rf-jammer](https://github.com/RocketGod-git/flipper-zero-rf-jammer) - 👁️‍🗨️ 1682
 1. [HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - 👁️‍🗨️ 1210
 1. [Flipper-Zero-Radio-Scanner](https://github.com/RocketGod-git/Flipper-Zero-Radio-Scanner) - 👁️‍🗨️ 199
 1. [hackcheck-data-breach-search-discord-bot](https://github.com/RocketGod-git/hackcheck-data-breach-search-discord-bot) - 👁️‍🗨️ 192
-1. [ip-hacker](https://github.com/RocketGod-git/ip-hacker) - 👁️‍🗨️ 126
+1. [ip-hacker](https://github.com/RocketGod-git/ip-hacker) - 👁️‍🗨️ 127
 1. [evilportal-htmlsquash](https://github.com/RocketGod-git/evilportal-htmlsquash) - 👁️‍🗨️ 118
 1. [ChatGPT-Creations](https://github.com/RocketGod-git/ChatGPT-Creations) - 👁️‍🗨️ 116
 1. [Dark-Web-Discord-Bot](https://github.com/RocketGod-git/Dark-Web-Discord-Bot) - 👁️‍🗨️ 59
@@ -512,6 +512,6 @@ Stats provided by:
 
 ## Timestamp
 
-2025-03-20 12:01:55
+2025-03-20 12:11:00
 
 ![rocketgod_logo](https://github.com/RocketGod-git/shodanbot/assets/57732082/7929b554-0fba-4c2b-b22d-6772d23c4a18)
