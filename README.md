@@ -1,3 +1,5 @@
+[<img src="https://github.com/RocketGod-git/RocketGod-git/raw/main/logo.png" width="100" height="100" align="center">](https://github.com/RocketGod-git/RocketGod-git)
+
 # RocketGod-git
 
 Find me on my Discord server [The Pirate's Plunder](https://discord.gg/thepirates)<br>
@@ -6,6 +8,8 @@ All the links to my socials and shit I've made are here at [betaskynet.com](http
 Find me on [<img src="https://1000logos.net/wp-content/uploads/2017/05/Old-YouTube-logo.jpg" width="50" height="28" align="center">](https://www.youtube.com/@lordrocketgod) [here](https://www.youtube.com/@lordrocketgod).<br>
 
 Current fun little project: [DEF CON Groups Interactive Map](https://dcgroups.betaskynet.com)<br>
+
+**Rocketgod**
 
 ## Contributions
 
@@ -238,7 +242,7 @@ Stats provided by:
 
 ## Contributors
 
-1. [RocketGod-git](https://github.com/RocketGod-git) - 💼 1281
+1. [RocketGod-git](https://github.com/RocketGod-git) - 💼 1287
 1. [FalsePhilosopher](https://github.com/FalsePhilosopher) - 💼 27
 1. [jamisonderek](https://github.com/jamisonderek) - 💼 11
 1. [zxkmm](https://github.com/zxkmm) - 💼 7
@@ -509,4 +513,6 @@ Stats provided by:
 
 ## Timestamp
 
-2025-03-20 11:46:06
+2025-03-20 11:54:10
+
+![rocketgod_logo](https://github.com/RocketGod-git/shodanbot/assets/57732082/7929b554-0fba-4c2b-b22d-6772d23c4a18)
