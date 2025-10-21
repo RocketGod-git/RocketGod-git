@@ -49,8 +49,8 @@ Stats provided by:
 1. [cyper-pro](https://github.com/RocketGod-git/cyper-pro) - ★ 22
 1. [M1-Treasure-Chest](https://github.com/RocketGod-git/M1-Treasure-Chest) - ★ 21
 1. [DFU-Binary-Extractor](https://github.com/RocketGod-git/DFU-Binary-Extractor) - ★ 20
+1. [Flipper-Zero-Cyborg-Detector](https://github.com/RocketGod-git/Flipper-Zero-Cyborg-Detector) - ★ 17
 1. [Ubertooth-Bluetooth-Spy](https://github.com/RocketGod-git/Ubertooth-Bluetooth-Spy) - ★ 17
-1. [Flipper-Zero-Cyborg-Detector](https://github.com/RocketGod-git/Flipper-Zero-Cyborg-Detector) - ★ 16
 1. [meshtastic-web-chat-interface](https://github.com/RocketGod-git/meshtastic-web-chat-interface) - ★ 16
 1. [watson](https://github.com/RocketGod-git/watson) - ★ 16
 1. [Flipper-Zero-SubGHz-Signal-Generator](https://github.com/RocketGod-git/Flipper-Zero-SubGHz-Signal-Generator) - ★ 15
@@ -105,10 +105,10 @@ Stats provided by:
 1. [Flipper-Zero-Laser-Tag](https://github.com/RocketGod-git/Flipper-Zero-Laser-Tag) - 🍴 5
 1. [DFU-Binary-Extractor](https://github.com/RocketGod-git/DFU-Binary-Extractor) - 🍴 5
 1. [hackcheck-data-breach-search-discord-bot](https://github.com/RocketGod-git/hackcheck-data-breach-search-discord-bot) - 🍴 4
+1. [Flipper-Zero-Cyborg-Detector](https://github.com/RocketGod-git/Flipper-Zero-Cyborg-Detector) - 🍴 4
 1. [ip-hacker](https://github.com/RocketGod-git/ip-hacker) - 🍴 3
 1. [Flipper_Zero-sub_converter](https://github.com/RocketGod-git/Flipper_Zero-sub_converter) - 🍴 3
 1. [rekognition-bot](https://github.com/RocketGod-git/rekognition-bot) - 🍴 3
-1. [Flipper-Zero-Cyborg-Detector](https://github.com/RocketGod-git/Flipper-Zero-Cyborg-Detector) - 🍴 3
 1. [smsbomber](https://github.com/RocketGod-git/smsbomber) - 🍴 2
 1. [Ubertooth-Bluetooth-Spy](https://github.com/RocketGod-git/Ubertooth-Bluetooth-Spy) - 🍴 2
 1. [meshtastic-web-chat-interface](https://github.com/RocketGod-git/meshtastic-web-chat-interface) - 🍴 2
@@ -147,15 +147,15 @@ Stats provided by:
 
 ### Most Cloned (14 day stats)
 
+1. [RocketGod-git](https://github.com/RocketGod-git/RocketGod-git) - 🔄 72
 1. [Flipper_Zero-sub_converter](https://github.com/RocketGod-git/Flipper_Zero-sub_converter) - 🔄 72
-1. [RocketGod-git](https://github.com/RocketGod-git/RocketGod-git) - 🔄 68
 1. [RocketGods-SubGHz-Toolkit](https://github.com/RocketGod-git/RocketGods-SubGHz-Toolkit) - 🔄 59
-1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - 🔄 51
+1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - 🔄 52
 1. [flipper-zero-rf-jammer](https://github.com/RocketGod-git/flipper-zero-rf-jammer) - 🔄 51
-1. [flipper-zero-carjacker](https://github.com/RocketGod-git/flipper-zero-carjacker) - 🔄 43
+1. [flipper-zero-carjacker](https://github.com/RocketGod-git/flipper-zero-carjacker) - 🔄 42
 1. [Dark-Web-Discord-Bot](https://github.com/RocketGod-git/Dark-Web-Discord-Bot) - 🔄 20
-1. [hackcheck-data-breach-search-discord-bot](https://github.com/RocketGod-git/hackcheck-data-breach-search-discord-bot) - 🔄 20
 1. [HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - 🔄 19
+1. [hackcheck-data-breach-search-discord-bot](https://github.com/RocketGod-git/hackcheck-data-breach-search-discord-bot) - 🔄 19
 1. [cyper-pro](https://github.com/RocketGod-git/cyper-pro) - 🔄 19
 1. [evilportal-htmlsquash](https://github.com/RocketGod-git/evilportal-htmlsquash) - 🔄 18
 1. [Flipper-Zero-SubGHz-Signal-Generator](https://github.com/RocketGod-git/Flipper-Zero-SubGHz-Signal-Generator) - 🔄 14
@@ -169,11 +169,11 @@ Stats provided by:
 1. [Flipper-Zero-Radio-Scanner](https://github.com/RocketGod-git/Flipper-Zero-Radio-Scanner) - 🔄 8
 1. [Flipper-Zero-Laser-Tag](https://github.com/RocketGod-git/Flipper-Zero-Laser-Tag) - 🔄 8
 1. [ip-hacker](https://github.com/RocketGod-git/ip-hacker) - 🔄 8
+1. [ghidra-firmware-symbol-porter](https://github.com/RocketGod-git/ghidra-firmware-symbol-porter) - 🔄 8
+1. [MsgDoxxer](https://github.com/RocketGod-git/MsgDoxxer) - 🔄 8
 1. [shodanbot](https://github.com/RocketGod-git/shodanbot) - 🔄 7
 1. [email-osint-discord-bot](https://github.com/RocketGod-git/email-osint-discord-bot) - 🔄 7
-1. [ghidra-firmware-symbol-porter](https://github.com/RocketGod-git/ghidra-firmware-symbol-porter) - 🔄 7
 1. [paste-search-discord-bot](https://github.com/RocketGod-git/paste-search-discord-bot) - 🔄 7
-1. [MsgDoxxer](https://github.com/RocketGod-git/MsgDoxxer) - 🔄 7
 1. [PDW-LOG-STREAMER](https://github.com/RocketGod-git/PDW-LOG-STREAMER) - 🔄 7
 1. [SentientAI](https://github.com/RocketGod-git/SentientAI) - 🔄 7
 1. [hashcat-discord-bot](https://github.com/RocketGod-git/hashcat-discord-bot) - 🔄 6
@@ -186,55 +186,55 @@ Stats provided by:
 1. [Flipper-Zero-Cyborg-Detector](https://github.com/RocketGod-git/Flipper-Zero-Cyborg-Detector) - 🔄 5
 1. [watson](https://github.com/RocketGod-git/watson) - 🔄 5
 1. [instascraper](https://github.com/RocketGod-git/instascraper) - 🔄 5
-1. [domain-probe](https://github.com/RocketGod-git/domain-probe) - 🔄 5
 1. [screenshot-stealer](https://github.com/RocketGod-git/screenshot-stealer) - 🔄 5
 1. [Ubertooth-Bluetooth-Spy](https://github.com/RocketGod-git/Ubertooth-Bluetooth-Spy) - 🔄 4
+1. [domain-probe](https://github.com/RocketGod-git/domain-probe) - 🔄 4
+1. [Discord-Server-Member-Recon](https://github.com/RocketGod-git/Discord-Server-Member-Recon) - 🔄 4
 1. [YARD-Stick-One-WebUSB-Control](https://github.com/RocketGod-git/YARD-Stick-One-WebUSB-Control) - 🔄 4
 1. [adsb-decoder](https://github.com/RocketGod-git/adsb-decoder) - 🔄 4
-1. [Discord-Server-Member-Recon](https://github.com/RocketGod-git/Discord-Server-Member-Recon) - 🔄 3
 1. [Hashcat-Discord-Bot-V2](https://github.com/RocketGod-git/Hashcat-Discord-Bot-V2) - 🔄 3
 1. [statsnatcher](https://github.com/RocketGod-git/statsnatcher) - 🔄 3
 1. [stable-diffusion-3-discord-bot](https://github.com/RocketGod-git/stable-diffusion-3-discord-bot) - 🔄 3
 1. [stable-diffusion-3-gui](https://github.com/RocketGod-git/stable-diffusion-3-gui) - 🔄 3
 1. [Flipper-Zero-Umpire-Indicator](https://github.com/RocketGod-git/Flipper-Zero-Umpire-Indicator) - 🔄 3
-1. [python-discord-bot](https://github.com/RocketGod-git/python-discord-bot) - 🔄 3
 1. [RocketGod-git.github.io](https://github.com/RocketGod-git/RocketGod-git.github.io) - 🔄 3
 1. [RATcat](https://github.com/RocketGod-git/RATcat) - 🔄 2
 1. [shell-access-discord-bot](https://github.com/RocketGod-git/shell-access-discord-bot) - 🔄 2
 1. [Flipper-Zero-Blackjack](https://github.com/RocketGod-git/Flipper-Zero-Blackjack) - 🔄 2
 1. [GPTbotV2](https://github.com/RocketGod-git/GPTbotV2) - 🔄 2
+1. [python-discord-bot](https://github.com/RocketGod-git/python-discord-bot) - 🔄 2
 1. [TerminatorBot](https://github.com/RocketGod-git/TerminatorBot) - 🔄 2
 1. [photos](https://github.com/RocketGod-git/photos) - 🔄 1
 
 ### Most Viewed (14 day stats)
 
-1. [flipper-zero-rf-jammer](https://github.com/RocketGod-git/flipper-zero-rf-jammer) - 👁️‍🗨️ 2001
-1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - 👁️‍🗨️ 1756
-1. [flipper-zero-carjacker](https://github.com/RocketGod-git/flipper-zero-carjacker) - 👁️‍🗨️ 1486
-1. [RocketGods-SubGHz-Toolkit](https://github.com/RocketGod-git/RocketGods-SubGHz-Toolkit) - 👁️‍🗨️ 1100
-1. [HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - 👁️‍🗨️ 856
-1. [hackcheck-data-breach-search-discord-bot](https://github.com/RocketGod-git/hackcheck-data-breach-search-discord-bot) - 👁️‍🗨️ 354
-1. [Flipper-Zero-Radio-Scanner](https://github.com/RocketGod-git/Flipper-Zero-Radio-Scanner) - 👁️‍🗨️ 144
+1. [flipper-zero-rf-jammer](https://github.com/RocketGod-git/flipper-zero-rf-jammer) - 👁️‍🗨️ 1995
+1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - 👁️‍🗨️ 1770
+1. [flipper-zero-carjacker](https://github.com/RocketGod-git/flipper-zero-carjacker) - 👁️‍🗨️ 1467
+1. [RocketGods-SubGHz-Toolkit](https://github.com/RocketGod-git/RocketGods-SubGHz-Toolkit) - 👁️‍🗨️ 1103
+1. [HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - 👁️‍🗨️ 850
+1. [hackcheck-data-breach-search-discord-bot](https://github.com/RocketGod-git/hackcheck-data-breach-search-discord-bot) - 👁️‍🗨️ 352
+1. [Flipper-Zero-Radio-Scanner](https://github.com/RocketGod-git/Flipper-Zero-Radio-Scanner) - 👁️‍🗨️ 145
 1. [Flipper-Zero-SUB-Analyzer](https://github.com/RocketGod-git/Flipper-Zero-SUB-Analyzer) - 👁️‍🗨️ 123
 1. [RocketGod-git](https://github.com/RocketGod-git/RocketGod-git) - 👁️‍🗨️ 108
-1. [evilportal-htmlsquash](https://github.com/RocketGod-git/evilportal-htmlsquash) - 👁️‍🗨️ 101
-1. [Flipper-Zero-SubGHz-Signal-Generator](https://github.com/RocketGod-git/Flipper-Zero-SubGHz-Signal-Generator) - 👁️‍🗨️ 96
-1. [ip-hacker](https://github.com/RocketGod-git/ip-hacker) - 👁️‍🗨️ 92
-1. [Dark-Web-Discord-Bot](https://github.com/RocketGod-git/Dark-Web-Discord-Bot) - 👁️‍🗨️ 71
-1. [ChatGPT-Creations](https://github.com/RocketGod-git/ChatGPT-Creations) - 👁️‍🗨️ 71
+1. [evilportal-htmlsquash](https://github.com/RocketGod-git/evilportal-htmlsquash) - 👁️‍🗨️ 102
+1. [Flipper-Zero-SubGHz-Signal-Generator](https://github.com/RocketGod-git/Flipper-Zero-SubGHz-Signal-Generator) - 👁️‍🗨️ 102
+1. [ip-hacker](https://github.com/RocketGod-git/ip-hacker) - 👁️‍🗨️ 93
+1. [Dark-Web-Discord-Bot](https://github.com/RocketGod-git/Dark-Web-Discord-Bot) - 👁️‍🗨️ 70
 1. [thepiratesplunder](https://github.com/RocketGod-git/thepiratesplunder) - 👁️‍🗨️ 58
-1. [email-osint-discord-bot](https://github.com/RocketGod-git/email-osint-discord-bot) - 👁️‍🗨️ 46
+1. [email-osint-discord-bot](https://github.com/RocketGod-git/email-osint-discord-bot) - 👁️‍🗨️ 47
 1. [Flipper_Zero-sub_converter](https://github.com/RocketGod-git/Flipper_Zero-sub_converter) - 👁️‍🗨️ 44
 1. [DFU-Binary-Extractor](https://github.com/RocketGod-git/DFU-Binary-Extractor) - 👁️‍🗨️ 40
 1. [flipper-sub-to-hackrf-portapack-c16-converter](https://github.com/RocketGod-git/flipper-sub-to-hackrf-portapack-c16-converter) - 👁️‍🗨️ 38
+1. [ChatGPT-Creations](https://github.com/RocketGod-git/ChatGPT-Creations) - 👁️‍🗨️ 38
+1. [Flipper-Zero-Cyborg-Detector](https://github.com/RocketGod-git/Flipper-Zero-Cyborg-Detector) - 👁️‍🗨️ 33
 1. [instascraper](https://github.com/RocketGod-git/instascraper) - 👁️‍🗨️ 33
-1. [Flipper-Zero-Cyborg-Detector](https://github.com/RocketGod-git/Flipper-Zero-Cyborg-Detector) - 👁️‍🗨️ 32
 1. [shodanbot](https://github.com/RocketGod-git/shodanbot) - 👁️‍🗨️ 30
 1. [Ubertooth-Bluetooth-Spy](https://github.com/RocketGod-git/Ubertooth-Bluetooth-Spy) - 👁️‍🗨️ 22
-1. [smsbomber](https://github.com/RocketGod-git/smsbomber) - 👁️‍🗨️ 21
+1. [smsbomber](https://github.com/RocketGod-git/smsbomber) - 👁️‍🗨️ 20
 1. [meshtastic-web-chat-interface](https://github.com/RocketGod-git/meshtastic-web-chat-interface) - 👁️‍🗨️ 20
 1. [Flipper-Zero-Laser-Tag](https://github.com/RocketGod-git/Flipper-Zero-Laser-Tag) - 👁️‍🗨️ 19
-1. [watson](https://github.com/RocketGod-git/watson) - 👁️‍🗨️ 18
+1. [watson](https://github.com/RocketGod-git/watson) - 👁️‍🗨️ 19
 1. [M1-Treasure-Chest](https://github.com/RocketGod-git/M1-Treasure-Chest) - 👁️‍🗨️ 17
 1. [Hashcat-Discord-Bot-V2](https://github.com/RocketGod-git/Hashcat-Discord-Bot-V2) - 👁️‍🗨️ 17
 1. [hashcat-discord-bot](https://github.com/RocketGod-git/hashcat-discord-bot) - 👁️‍🗨️ 16
@@ -253,8 +253,8 @@ Stats provided by:
 1. [Defcon33-TPP-RL-badge](https://github.com/RocketGod-git/Defcon33-TPP-RL-badge) - 👁️‍🗨️ 7
 1. [cyper-pro](https://github.com/RocketGod-git/cyper-pro) - 👁️‍🗨️ 6
 1. [MsgDoxxer](https://github.com/RocketGod-git/MsgDoxxer) - 👁️‍🗨️ 6
+1. [screenshot-stealer](https://github.com/RocketGod-git/screenshot-stealer) - 👁️‍🗨️ 6
 1. [statsnatcher](https://github.com/RocketGod-git/statsnatcher) - 👁️‍🗨️ 5
-1. [screenshot-stealer](https://github.com/RocketGod-git/screenshot-stealer) - 👁️‍🗨️ 5
 1. [LRS-Restaurant-Pagers](https://github.com/RocketGod-git/LRS-Restaurant-Pagers) - 👁️‍🗨️ 4
 1. [Flipper_Zero-Wheel_of_Fortune](https://github.com/RocketGod-git/Flipper_Zero-Wheel_of_Fortune) - 👁️‍🗨️ 4
 1. [SentientAI](https://github.com/RocketGod-git/SentientAI) - 👁️‍🗨️ 4
@@ -269,7 +269,7 @@ Stats provided by:
 
 ## Contributors
 
-1. [RocketGod-git](https://github.com/RocketGod-git) - 💼 1600
+1. [RocketGod-git](https://github.com/RocketGod-git) - 💼 1601
 1. [FalsePhilosopher](https://github.com/FalsePhilosopher) - 💼 27
 1. [jamisonderek](https://github.com/jamisonderek) - 💼 11
 1. [zxkmm](https://github.com/zxkmm) - 💼 7
@@ -292,6 +292,6 @@ Stats provided by:
 
 ## Timestamp
 
-2025-10-21 06:14:44
+2025-10-21 10:16:08
 
 ![rocketgod_logo](https://github.com/RocketGod-git/shodanbot/assets/57732082/7929b554-0fba-4c2b-b22d-6772d23c4a18)
