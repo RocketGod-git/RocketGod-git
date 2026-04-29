@@ -12,7 +12,7 @@ Thanks for looking!
 
 ## Contributions
 
-[<img src="https://github.com/hak5.png?size=50" width="50" height="50" style="border-radius:50%;" alt="wifipineapplepager-payloads">](https://github.com/hak5/wifipineapplepager-payloads/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/portapack-mayhem.png?size=50" width="50" height="50" style="border-radius:50%;" alt="mayhem-firmware">](https://github.com/portapack-mayhem/mayhem-firmware/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/portapack-mayhem.png?size=50" width="50" height="50" style="border-radius:50%;" alt="MayhemHub">](https://github.com/portapack-mayhem/MayhemHub/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/RfidResearchGroup.png?size=50" width="50" height="50" style="border-radius:50%;" alt="ChameleonUltra">](https://github.com/RfidResearchGroup/ChameleonUltra/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/OpenSourceSDRLab.png?size=50" width="50" height="50" style="border-radius:50%;" alt="mayhem-firmware">](https://github.com/OpenSourceSDRLab/mayhem-firmware/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/flipperdevices.png?size=50" width="50" height="50" style="border-radius:50%;" alt="flipper-application-catalog">](https://github.com/flipperdevices/flipper-application-catalog/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/Rapptz.png?size=50" width="50" height="50" style="border-radius:50%;" alt="discord.py">](https://github.com/Rapptz/discord.py/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/Kavitate.png?size=50" width="50" height="50" style="border-radius:50%;" alt="WiGLE-Discord-Bot">](https://github.com/Kavitate/WiGLE-Discord-Bot/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/UberGuidoZ.png?size=50" width="50" height="50" style="border-radius:50%;" alt="Flipper">](https://github.com/UberGuidoZ/Flipper/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/DarkFlippers.png?size=50" width="50" height="50" style="border-radius:50%;" alt="unleashed-firmware">](https://github.com/DarkFlippers/unleashed-firmware/pulls?q=is:pr+author:RocketGod-git)
+[<img src="https://github.com/hak5.png?size=50" width="50" height="50" style="border-radius:50%;" alt="wifipineapplepager-payloads">](https://github.com/hak5/wifipineapplepager-payloads/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/portapack-mayhem.png?size=50" width="50" height="50" style="border-radius:50%;" alt="mayhem-firmware">](https://github.com/portapack-mayhem/mayhem-firmware/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/portapack-mayhem.png?size=50" width="50" height="50" style="border-radius:50%;" alt="MayhemHub">](https://github.com/portapack-mayhem/MayhemHub/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/RfidResearchGroup.png?size=50" width="50" height="50" style="border-radius:50%;" alt="ChameleonUltra">](https://github.com/RfidResearchGroup/ChameleonUltra/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/OpenSourceSDRLab.png?size=50" width="50" height="50" style="border-radius:50%;" alt="mayhem-firmware">](https://github.com/OpenSourceSDRLab/mayhem-firmware/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/lab-401.png?size=50" width="50" height="50" style="border-radius:50%;" alt="fzLightMessenger">](https://github.com/lab-401/fzLightMessenger/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/Next-Flip.png?size=50" width="50" height="50" style="border-radius:50%;" alt="Momentum-Firmware">](https://github.com/Next-Flip/Momentum-Firmware/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/flipperdevices.png?size=50" width="50" height="50" style="border-radius:50%;" alt="flipper-application-catalog">](https://github.com/flipperdevices/flipper-application-catalog/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/RocketGod-git.png?size=50" width="50" height="50" style="border-radius:50%;" alt="flipper-application-catalog">](https://github.com/RocketGod-git/flipper-application-catalog/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/ElectronicCats.png?size=50" width="50" height="50" style="border-radius:50%;" alt="Minino">](https://github.com/ElectronicCats/Minino/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/DefconParrot.png?size=50" width="50" height="50" style="border-radius:50%;" alt="DefconGroups">](https://github.com/DefconParrot/DefconGroups/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/slumbersage.png?size=50" width="50" height="50" style="border-radius:50%;" alt="dbotbanner">](https://github.com/slumbersage/dbotbanner/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/Rapptz.png?size=50" width="50" height="50" style="border-radius:50%;" alt="discord.py">](https://github.com/Rapptz/discord.py/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/Kavitate.png?size=50" width="50" height="50" style="border-radius:50%;" alt="WiGLE-Discord-Bot">](https://github.com/Kavitate/WiGLE-Discord-Bot/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/sherlock-project.png?size=50" width="50" height="50" style="border-radius:50%;" alt="sherlock">](https://github.com/sherlock-project/sherlock/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/hak5.png?size=50" width="50" height="50" style="border-radius:50%;" alt="omg-payloads">](https://github.com/hak5/omg-payloads/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/bigbrodude6119.png?size=50" width="50" height="50" style="border-radius:50%;" alt="flipper-zero-evil-portal">](https://github.com/bigbrodude6119/flipper-zero-evil-portal/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/exploitagency.png?size=50" width="50" height="50" style="border-radius:50%;" alt="rfcat-rolljam">](https://github.com/exploitagency/rfcat-rolljam/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/SomnambulantDead.png?size=50" width="50" height="50" style="border-radius:50%;" alt="F0_SubGhz">](https://github.com/SomnambulantDead/F0_SubGhz/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/Zero6992.png?size=50" width="50" height="50" style="border-radius:50%;" alt="chatGPT-discord-bot">](https://github.com/Zero6992/chatGPT-discord-bot/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/UberGuidoZ.png?size=50" width="50" height="50" style="border-radius:50%;" alt="Flipper">](https://github.com/UberGuidoZ/Flipper/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/jimilinuxguy.png?size=50" width="50" height="50" style="border-radius:50%;" alt="customer-assistance-buttons-sdr">](https://github.com/jimilinuxguy/customer-assistance-buttons-sdr/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/ezod.png?size=50" width="50" height="50" style="border-radius:50%;" alt="flipperzero-gps">](https://github.com/ezod/flipperzero-gps/pulls?q=is:pr+author:RocketGod-git) [<img src="https://github.com/DarkFlippers.png?size=50" width="50" height="50" style="border-radius:50%;" alt="unleashed-firmware">](https://github.com/DarkFlippers/unleashed-firmware/pulls?q=is:pr+author:RocketGod-git)
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=RocketGod-git&show_icons=true&theme=aura&include_all_commits=true"/>
 
@@ -27,11 +27,11 @@ Stats provided by:
 
 1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - ★ 1473
 1. [HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - ★ 707
-1. [flipper-zero-rf-jammer](https://github.com/RocketGod-git/flipper-zero-rf-jammer) - ★ 680
+1. [flipper-zero-rf-jammer](https://github.com/RocketGod-git/flipper-zero-rf-jammer) - ★ 681
 1. [ProtoPirate](https://github.com/RocketGod-git/ProtoPirate) - ★ 519
 1. [RocketGods-SubGHz-Toolkit](https://github.com/RocketGod-git/RocketGods-SubGHz-Toolkit) - ★ 240
 1. [flipper-zero-carjacker](https://github.com/RocketGod-git/flipper-zero-carjacker) - ★ 176
-1. [evilportal-htmlsquash](https://github.com/RocketGod-git/evilportal-htmlsquash) - ★ 160
+1. [evilportal-htmlsquash](https://github.com/RocketGod-git/evilportal-htmlsquash) - ★ 161
 1. [Dark-Web-Discord-Bot](https://github.com/RocketGod-git/Dark-Web-Discord-Bot) - ★ 119
 1. [Flipper-Zero-Radio-Scanner](https://github.com/RocketGod-git/Flipper-Zero-Radio-Scanner) - ★ 109
 1. [flipper-sub-to-hackrf-portapack-c16-converter](https://github.com/RocketGod-git/flipper-sub-to-hackrf-portapack-c16-converter) - ★ 97
@@ -41,8 +41,8 @@ Stats provided by:
 1. [hackcheck-data-breach-search-discord-bot](https://github.com/RocketGod-git/hackcheck-data-breach-search-discord-bot) - ★ 54
 1. [Flipper-Zero-SUB-Analyzer](https://github.com/RocketGod-git/Flipper-Zero-SUB-Analyzer) - ★ 53
 1. [Flipper-Zero-Laser-Tag](https://github.com/RocketGod-git/Flipper-Zero-Laser-Tag) - ★ 50
-1. [ip-hacker](https://github.com/RocketGod-git/ip-hacker) - ★ 47
-1. [smsbomber](https://github.com/RocketGod-git/smsbomber) - ★ 43
+1. [ip-hacker](https://github.com/RocketGod-git/ip-hacker) - ★ 48
+1. [smsbomber](https://github.com/RocketGod-git/smsbomber) - ★ 44
 1. [ChatGPT-Creations](https://github.com/RocketGod-git/ChatGPT-Creations) - ★ 42
 1. [Flipper_Zero-sub_converter](https://github.com/RocketGod-git/Flipper_Zero-sub_converter) - ★ 40
 1. [DFU-Binary-Extractor](https://github.com/RocketGod-git/DFU-Binary-Extractor) - ★ 38
@@ -277,7 +277,7 @@ Stats provided by:
 
 ## Contributors
 
-1. [RocketGod-git](https://github.com/RocketGod-git) - 💼 1918
+1. [RocketGod-git](https://github.com/RocketGod-git) - 💼 1919
 1. [xMasterX](https://github.com/xMasterX) - 💼 116
 1. [gullradriel](https://github.com/gullradriel) - 💼 69
 1. [zero-mega](https://github.com/zero-mega) - 💼 44
@@ -608,6 +608,6 @@ Stats provided by:
 
 ## Timestamp
 
-2026-04-28 11:12:27
+2026-04-29 11:15:40
 
 ![rocketgod_logo](https://github.com/RocketGod-git/shodanbot/assets/57732082/7929b554-0fba-4c2b-b22d-6772d23c4a18)
