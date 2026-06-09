@@ -29,8 +29,8 @@ Stats provided by:
 1. [HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - ★ 717
 1. [flipper-zero-rf-jammer](https://github.com/RocketGod-git/flipper-zero-rf-jammer) - ★ 693
 1. [ProtoPirate](https://github.com/RocketGod-git/ProtoPirate) - ★ 565
-1. [RocketGods-SubGHz-Toolkit](https://github.com/RocketGod-git/RocketGods-SubGHz-Toolkit) - ★ 245
-1. [flipper-zero-carjacker](https://github.com/RocketGod-git/flipper-zero-carjacker) - ★ 188
+1. [RocketGods-SubGHz-Toolkit](https://github.com/RocketGod-git/RocketGods-SubGHz-Toolkit) - ★ 247
+1. [flipper-zero-carjacker](https://github.com/RocketGod-git/flipper-zero-carjacker) - ★ 189
 1. [evilportal-htmlsquash](https://github.com/RocketGod-git/evilportal-htmlsquash) - ★ 164
 1. [Dark-Web-Discord-Bot](https://github.com/RocketGod-git/Dark-Web-Discord-Bot) - ★ 122
 1. [Flipper-Zero-Radio-Scanner](https://github.com/RocketGod-git/Flipper-Zero-Radio-Scanner) - ★ 110
@@ -277,8 +277,8 @@ Stats provided by:
 
 ## Contributors
 
-1. [RocketGod-git](https://github.com/RocketGod-git) - 💼 1961
-1. [xMasterX](https://github.com/xMasterX) - 💼 122
+1. [RocketGod-git](https://github.com/RocketGod-git) - 💼 1962
+1. [xMasterX](https://github.com/xMasterX) - 💼 123
 1. [gullradriel](https://github.com/gullradriel) - 💼 69
 1. [zero-mega](https://github.com/zero-mega) - 💼 52
 1. [FalsePhilosopher](https://github.com/FalsePhilosopher) - 💼 27
@@ -574,6 +574,6 @@ Stats provided by:
 
 ## Timestamp
 
-2026-06-08 07:30:02
+2026-06-09 07:33:16
 
 ![rocketgod_logo](https://github.com/RocketGod-git/shodanbot/assets/57732082/7929b554-0fba-4c2b-b22d-6772d23c4a18)
