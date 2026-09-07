@@ -25,13 +25,13 @@ Stats provided by:
 
 ### Most Starred
 
-1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - ★ 1575
-1. [flipper-zero-rf-jammer](https://github.com/RocketGod-git/flipper-zero-rf-jammer) - ★ 765
+1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - ★ 1579
+1. [flipper-zero-rf-jammer](https://github.com/RocketGod-git/flipper-zero-rf-jammer) - ★ 766
 1. [HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - ★ 750
 1. [ProtoPirate](https://github.com/RocketGod-git/ProtoPirate) - ★ 664
 1. [RocketGods-SubGHz-Toolkit](https://github.com/RocketGod-git/RocketGods-SubGHz-Toolkit) - ★ 279
 1. [flipper-zero-carjacker](https://github.com/RocketGod-git/flipper-zero-carjacker) - ★ 213
-1. [evilportal-htmlsquash](https://github.com/RocketGod-git/evilportal-htmlsquash) - ★ 171
+1. [evilportal-htmlsquash](https://github.com/RocketGod-git/evilportal-htmlsquash) - ★ 172
 1. [Dark-Web-Discord-Bot](https://github.com/RocketGod-git/Dark-Web-Discord-Bot) - ★ 127
 1. [Flipper-Zero-Radio-Scanner](https://github.com/RocketGod-git/Flipper-Zero-Radio-Scanner) - ★ 116
 1. [flipper-sub-to-hackrf-portapack-c16-converter](https://github.com/RocketGod-git/flipper-sub-to-hackrf-portapack-c16-converter) - ★ 99
@@ -92,7 +92,7 @@ Stats provided by:
 
 1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - 🍴 216
 1. [ProtoPirate](https://github.com/RocketGod-git/ProtoPirate) - 🍴 80
-1. [flipper-zero-rf-jammer](https://github.com/RocketGod-git/flipper-zero-rf-jammer) - 🍴 78
+1. [flipper-zero-rf-jammer](https://github.com/RocketGod-git/flipper-zero-rf-jammer) - 🍴 77
 1. [HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - 🍴 61
 1. [RocketGods-SubGHz-Toolkit](https://github.com/RocketGod-git/RocketGods-SubGHz-Toolkit) - 🍴 45
 1. [flipper-zero-carjacker](https://github.com/RocketGod-git/flipper-zero-carjacker) - 🍴 19
@@ -285,7 +285,7 @@ Stats provided by:
 
 ## Contributors
 
-1. [RocketGod-git](https://github.com/RocketGod-git) - 💼 2136
+1. [RocketGod-git](https://github.com/RocketGod-git) - 💼 2137
 1. [xMasterX](https://github.com/xMasterX) - 💼 129
 1. [gullradriel](https://github.com/gullradriel) - 💼 69
 1. [zero-mega](https://github.com/zero-mega) - 💼 55
@@ -584,6 +584,6 @@ Stats provided by:
 
 ## Timestamp
 
-2026-09-06 13:22:24
+2026-09-07 13:27:19
 
 ![rocketgod_logo](https://github.com/RocketGod-git/shodanbot/assets/57732082/7929b554-0fba-4c2b-b22d-6772d23c4a18)
