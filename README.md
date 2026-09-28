@@ -25,12 +25,12 @@ Stats provided by:
 
 ### Most Starred
 
-1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - ★ 1594
+1. [Flipper_Zero](https://github.com/RocketGod-git/Flipper_Zero) - ★ 1593
 1. [flipper-zero-rf-jammer](https://github.com/RocketGod-git/flipper-zero-rf-jammer) - ★ 779
 1. [HackRF-Treasure-Chest](https://github.com/RocketGod-git/HackRF-Treasure-Chest) - ★ 753
-1. [ProtoPirate](https://github.com/RocketGod-git/ProtoPirate) - ★ 689
-1. [RocketGods-SubGHz-Toolkit](https://github.com/RocketGod-git/RocketGods-SubGHz-Toolkit) - ★ 284
-1. [flipper-zero-carjacker](https://github.com/RocketGod-git/flipper-zero-carjacker) - ★ 220
+1. [ProtoPirate](https://github.com/RocketGod-git/ProtoPirate) - ★ 690
+1. [RocketGods-SubGHz-Toolkit](https://github.com/RocketGod-git/RocketGods-SubGHz-Toolkit) - ★ 283
+1. [flipper-zero-carjacker](https://github.com/RocketGod-git/flipper-zero-carjacker) - ★ 221
 1. [evilportal-htmlsquash](https://github.com/RocketGod-git/evilportal-htmlsquash) - ★ 172
 1. [Dark-Web-Discord-Bot](https://github.com/RocketGod-git/Dark-Web-Discord-Bot) - ★ 128
 1. [Flipper-Zero-Radio-Scanner](https://github.com/RocketGod-git/Flipper-Zero-Radio-Scanner) - ★ 116
@@ -52,7 +52,7 @@ Stats provided by:
 1. [Ubertooth-Bluetooth-Spy](https://github.com/RocketGod-git/Ubertooth-Bluetooth-Spy) - ★ 32
 1. [M1-Treasure-Chest](https://github.com/RocketGod-git/M1-Treasure-Chest) - ★ 31
 1. [cyper-pro](https://github.com/RocketGod-git/cyper-pro) - ★ 26
-1. [Flipper-Zero-Cyborg-Detector](https://github.com/RocketGod-git/Flipper-Zero-Cyborg-Detector) - ★ 24
+1. [Flipper-Zero-Cyborg-Detector](https://github.com/RocketGod-git/Flipper-Zero-Cyborg-Detector) - ★ 25
 1. [instascraper](https://github.com/RocketGod-git/instascraper) - ★ 22
 1. [wardrive-go](https://github.com/RocketGod-git/wardrive-go) - ★ 21
 1. [watson](https://github.com/RocketGod-git/watson) - ★ 21
@@ -285,7 +285,7 @@ Stats provided by:
 
 ## Contributors
 
-1. [RocketGod-git](https://github.com/RocketGod-git) - 💼 2164
+1. [RocketGod-git](https://github.com/RocketGod-git) - 💼 2165
 1. [xMasterX](https://github.com/xMasterX) - 💼 141
 1. [LeeroysHub](https://github.com/LeeroysHub) - 💼 69
 1. [zero-mega](https://github.com/zero-mega) - 💼 56
@@ -613,6 +613,6 @@ Stats provided by:
 
 ## Timestamp
 
-2026-09-27 07:38:58
+2026-09-28 07:44:46
 
 ![rocketgod_logo](https://github.com/RocketGod-git/shodanbot/assets/57732082/7929b554-0fba-4c2b-b22d-6772d23c4a18)
