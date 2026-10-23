@@ -72,7 +72,7 @@ Stats provided by:
 1. [adsb-decoder](https://github.com/RocketGod-git/adsb-decoder) - ★ 8
 1. [MsgDoxxer](https://github.com/RocketGod-git/MsgDoxxer) - ★ 8
 1. [wardrive-stats](https://github.com/RocketGod-git/wardrive-stats) - ★ 8
-1. [wdgwars-uploader](https://github.com/RocketGod-git/wdgwars-uploader) - ★ 7
+1. [wdgwars-uploader](https://github.com/RocketGod-git/wdgwars-uploader) - ★ 8
 1. [Flipper-Zero-Blackjack](https://github.com/RocketGod-git/Flipper-Zero-Blackjack) - ★ 6
 1. [gofile-vulnerability-exploit-script](https://github.com/RocketGod-git/gofile-vulnerability-exploit-script) - ★ 6
 1. [mayhem-mobile](https://github.com/RocketGod-git/mayhem-mobile) - ★ 6
@@ -297,8 +297,8 @@ Stats provided by:
 
 ## Contributors
 
-1. [RocketGod-git](https://github.com/RocketGod-git) - 💼 2343
-1. [github-actions[bot]](https://github.com/github-actions[bot]) - 💼 972
+1. [RocketGod-git](https://github.com/RocketGod-git) - 💼 2348
+1. [github-actions[bot]](https://github.com/github-actions[bot]) - 💼 975
 1. [xMasterX](https://github.com/xMasterX) - 💼 148
 1. [LeeroysHub](https://github.com/LeeroysHub) - 💼 103
 1. [zero-mega](https://github.com/zero-mega) - 💼 56
@@ -598,6 +598,6 @@ Stats provided by:
 
 ## Timestamp
 
-2026-10-22 16:24:24
+2026-10-22 18:35:54
 
 ![rocketgod_logo](https://github.com/RocketGod-git/shodanbot/assets/57732082/7929b554-0fba-4c2b-b22d-6772d23c4a18)
